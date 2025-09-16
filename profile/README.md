@@ -55,7 +55,7 @@ We welcome ideas, feedback, and contributions.
 Galley is released under the **Business Source License (BSL 1.1)**.  
 
 - Free for testing, research, and personal/non-commercial use.  
-- Commercial use (including SaaS, hosting, or integration in paid products) requires a license from **Clicqo B.V.**.  
-- On **1 January 2029**, this code will automatically convert to **GPL-2.0-or-later**.  
+- Commercial use (including SaaS, hosting, or integration in paid products) requires a license from **[Galley.run](https://galley.run).**.  
+- Each version will automatically convert to **GPL-2.0-or-later** after **5 years**.
 
 See [LICENSE.md](./LICENSE.md) for full details.
