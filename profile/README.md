@@ -52,7 +52,7 @@ We welcome ideas, feedback, and contributions.
 
 ## 📜 License
 
-Galley is released under the **Business Source License (BSL 1.1)**.  
+Galley is released under the **Business Source License (BUSL 1.1)**.  
 
 - Free for testing, research, and personal/non-commercial use.  
 - Commercial use (including SaaS, hosting, or integration in paid products) requires a license from **[Galley.run](https://galley.run).**.  
